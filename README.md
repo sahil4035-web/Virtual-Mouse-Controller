@@ -160,8 +160,8 @@ The Virtual Mouse Control System demonstrates how Computer Vision and Machine Le
 
 ## Author
 
-Siddhesh
+Sahil Sutar
 
-Diploma in Electrical Engineering
+Diploma in Computer Engineering
 
 AI & Machine Learning / Computer Vision Project
